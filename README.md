@@ -7,7 +7,8 @@ A graduated in Physics migrating to Web Developer
 
 📫 How to reach me fallerbruno@gmail.com
 
-https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
+<img src="{https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white}" />
+<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
 https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
@@ -32,6 +33,8 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 
 https://github-readme-activity-graph.cyclic.app/graph?username={fallerbruno}&theme={react}
+https://github-readme-stats.vercel.app/api/top-langs/?username={fallerbruno}&theme={dark}
+
 
 
 
