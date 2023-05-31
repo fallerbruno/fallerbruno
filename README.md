@@ -9,7 +9,8 @@ A graduated in Physics migrating to Web Developer
 
 <img src="{https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white}" />
 <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white
