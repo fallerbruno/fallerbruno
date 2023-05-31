@@ -6,8 +6,8 @@ A graduated in Physics migrating to Web Developer
 🌱 seedling I’m currently learning React and React-Native.
 
 📫 How to reach me fallerbruno@gmail.com
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
 
 
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
