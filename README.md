@@ -2,7 +2,7 @@
 <h3 align="center">A graduated in Physics migrating to Web Developer</h3>
 
 - 🔭 I’m currently working on [Tubaron](https://tubaron.com.br/)...
-- 
+
 - 🌱 I’m currently learning **React, React-Native, NextJs, Jest and NestJs.**
 
 - 💬 Ask me about **Games, Physics and developer stuffs.**
