@@ -7,9 +7,8 @@ A graduated in Physics migrating to Web Developer
 
 📫 How to reach me fallerbruno@gmail.com
 
-<img src="{https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white}" />
-<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
-![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
+
 
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
