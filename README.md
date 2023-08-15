@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tubaron](https://tubaron.com.br/)...
 
-- 🌱 I’m currently learning **React, React-Native, NextJs, Jest and NestJs.**
+- 🌱 I’m currently learning **PHP, Laravel, JavaScript, TypeScript, React, React-Native, NextJs, Jest and NestJs.**
 
 - 💬 Ask me about **Games, Physics and developer stuffs.**
 
