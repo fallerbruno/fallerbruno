@@ -45,8 +45,5 @@
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallerbruno&langs_count=10&layout=compact&theme=onedark" alt="fallerbruno" />
     </p>
-    <p>
-        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fallerbruno&count_private=true&show_icons=true&theme=onedark" alt="fallerbruno" />
-    </p>
 </details>
 
