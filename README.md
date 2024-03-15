@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Faller</h1>
-<h3 align="center">A graduated in Physics migrating to Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on [Tubaron](https://tubaron.com.br/)...
 
 - 🌱 I’m currently learning **React, React-Native, NextJs, Jest and NestJs.**
 
-- 💬 Ask me about **Games, Physics and developer stuffs.**
+- 💬 Ask me about **Developer stuffs.**
 
 - 📫 How to reach me **fallerbruno@gmail.com**
 
@@ -20,7 +20,6 @@
     <summary><b>:gear: &nbsp;Languages and Tools:</b></summary>
     <p align="left"> 
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
